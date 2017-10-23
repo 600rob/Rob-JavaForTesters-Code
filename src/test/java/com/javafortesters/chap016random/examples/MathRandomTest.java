@@ -1,8 +1,6 @@
-package com.javafortesters.chap0016random.examples;
+package com.javafortesters.chap016random.examples;
 
 import org.junit.Test;
-
-import java.util.Random;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;

@@ -1,4 +1,4 @@
-package com.javafortesters.chap0016random;
+package com.javafortesters.chap016random;
 
 import org.junit.Assert;
 import org.junit.Test;
