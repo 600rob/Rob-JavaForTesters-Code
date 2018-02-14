@@ -3,6 +3,7 @@ package com.javafortesters.chap006domainentities.examples;
 
 import com.javafortesters.domainentities.User;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 /**
